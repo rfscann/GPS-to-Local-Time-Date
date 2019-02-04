@@ -14,8 +14,8 @@
  *                 Found the following bugs:-
  *                        Hours, Minutes, & seconds displaying as eg. 9:9:2 instead of 
  *                        09:09:02.
- *                        Lattitude and longitude displaying as eg. 3624.0000 14567.0000
- *                        instead of -36.2400 145.6700
+ *                        Lattitude and longitude displaying as eg. 3924.0000 14767.0000
+ *                        instead of -39.2400 147.6700
  *                        
  *  Version 1.03 - Added IF statements to correct time, so it displays as 09:09:02.
  *                  however found that time was displaying as 009:009:002 - Corrected IF statements
@@ -35,4 +35,5 @@
  *                 Created void leap(void) to check if local date is within a leap year
  *                 Added local end of year check
  *                 Have a little bug that will not print a leading 0 to GMT GPS.day
+ *                 Still have to fix Lat & Long not displaying as per Ver 1.02
  */
