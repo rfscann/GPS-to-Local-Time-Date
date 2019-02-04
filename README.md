@@ -1,6 +1,7 @@
 # GPS-to-Local-Time-Date
-To simulate or modify to work with an actual GPS, will calculate the offset local time.  It will work out if it is the end of the month,
-end of the year, and even check if February is in a leap year.
+To simulate or modify to work with an actual GPS, will calculate the offset local time.  It will work out if it is the end of the month, end of the year, and even check if February is in a leap year.
+
+Please note:  This is my 1st complete code that I have done myself with out using examples.  It may not be perfect, and not structured as the more experienced coders do.  Please concider this before placing comments.  Constructive comments are most welcome.
 
 This code will require you to change the following lines:
 
