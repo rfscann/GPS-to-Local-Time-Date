@@ -35,4 +35,7 @@
  *                 Created void leap(void) to check if local date is within a leap year
  *                 Added local end of year check
  *                 Have a little bug that will not print a leading 0 to GMT GPS.day
+ *
+ *  Version 2.02 - Removed all items relating to Serial.print
+ *                 Added section to rectify Latitude & longitude bug as per above
  */
